@@ -4,7 +4,7 @@ This project is a simple HTML page built to explore and practice semantic HTML. 
 Purpose
 The main goal is to:
 
-Use semantic HTML elements correctly (<header>, <nav>, <main>, <section>, <article>, <figure>, <aside>, <footer>, etc.)
+Use semantic HTML elements correctly (header, nav, main, section, article, figure, aside, footer, etc.)
 
 Build a clear, accessible structure without relying on styling or JavaScript
 
